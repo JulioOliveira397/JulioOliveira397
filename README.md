@@ -7,7 +7,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white" />
 
 <br>
