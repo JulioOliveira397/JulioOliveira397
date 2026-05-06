@@ -27,23 +27,11 @@ Estudante de tecnologia, criador e builder contínuo.
 Meu foco atual é:
 
 - Desenvolvimento com **Python**
-- Consolidação de lógica e backend
 - Evolução de projetos próprios
 - Prática consistente para entrar no mercado tech
 
 Meu objetivo é claro:  
 **crescer como desenvolvedor entregando projetos reais, funcionais e evolutivos.**
-
----
-
-## 📂 Projetos em Destaque
-
-### 🔹 **Note Manager**
-Gerenciador de notas construído para demonstrar meu avanço real em Python.  
-Inclui melhorias constantes e roadmap aberto.
-
-➡️ **[Acessar repositório](#)**
-https://github.com/JulioOliveira397/note_manager
 
 ---
 
@@ -55,8 +43,6 @@ https://github.com/JulioOliveira397/note_manager
 | Linguagens | Ferramentas | Conceitos |
 |-----------|-------------|-----------|
 | 🟣 **Python** | VS Code | Lógica de Programação |
-| 🟡 **JavaScript** | Git & GitHub | Automação |
-| ⚪ Em breve: Java (possível) | GitHub Projects | Estruturação de projetos |
 
 </div>
 
@@ -84,7 +70,7 @@ Meu GitHub é um ambiente vivo — você verá:
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/júlio-cesar-santos-daltro-de-oliveira-98054a314  
 🎒 **GitHub:** https://github.com/JulioOliveira397  
-📸 **Instagram:** Jutty._7  
+📸 **Instagram:** @Jutty._7  
 
 ---
 
