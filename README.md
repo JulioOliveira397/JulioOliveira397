@@ -1,81 +1,32 @@
-<!-- HEADER CENTRAL -->
-<div align="center">
+# 👋 Julio Oliveira (Oliver)
 
-# 👋 Olá, eu sou o **Oliver**  
-### 🟣 Estudante de CyberSecurity | Python | Parrot OS | Cisco Net Acad | Digital Innovation One
+🟣 Estudante de Cibersegurança | Python | Parrot OS | Cisco NetAcad
+📍 Salvador, BA
 
-<br>
+## Sobre
+Estudante de tecnologia focado em segurança cibernética, construindo a trilha do hardware ao software. Método de trabalho: **questionar → aprender → aplicar**, registrado publicamente aqui.
 
-<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" />
+**Foco atual:**
+- Fundamentos de hardware e como um computador funciona por dentro
+- Curso introdutório de Cibersegurança (Cisco) concluído + aprovação na fase seletiva da 13ª Maratona CiberEducação
+- Próximos passos: TryHackMe, Fortinet NSE 1-3
 
-<img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white" />
-
-<br>
-<hr>
-
-### 🚀 Transformo aprendizado em código real  
-**Este GitHub registra meu ciclo contínuo:**  
-**Questionar → Aprender → Aplicar**
-
-</div>
-
----
-
-## 🧭 Sobre mim  
-Sou **Julio Oliveira**, também conhecido como Oliver ou Jutty 
-Estudante de tecnologias focado em Segurança Cibernética. Pesquisa, aprendizado e evolução contínuoa.
-
-Meu foco atual é:
-
-- Conhecimentos de **HardWare e Software** - **Como Funciona um Computador e seus Sistemas?**
-- Adquirir experiência e conhecimento de maneira autônoma
-- Prática e teoria consistente em busca de uma oportunidade na área de segurança Cibernética ou T.i
-
-Meu objetivo é claro:  
-**Crescer e me profissionalizar na área de Segurança Cibernética.**
-
----
-
-
-## 🛠️ Minha Stack Atual
-
-<div align="center">
-
+## 🛠️ Stack
 | Linguagens | Ferramentas | Conceitos |
-|-----------|-------------|-----------|
-| 🟣 **Python** | VS Code | Lógica de Programação |
-|                | Parrot OS | Segurança Digital    |
-|                |Claude     | Privacidade          |
+|---|---|---|
+| Python | VS Code | Lógica de programação |
+| — | Parrot OS | Segurança digital |
+| — | Git/GitHub | Boas práticas de programação |
+| - | -----------| Análise de Dados|
+## 💼 Experiência prática
+- Montagem, manutenção e limpeza preventiva de computadores e notebooks
+- Gerenciamento de VPNs para conexões seguras em redes públicas
 
-                
-</div>
+## 📬 Contato
+- LinkedIn: [linkedin.com/in/julio-cesar-santos-daltro-de-oliveira](https://www.linkedin.com/in/júlio-cesar-santos-daltro-de-oliveira-98054a314)
+- Instagram: [@Jutty._7](https://instagram.com/Jutty._7)
 
----
-
-
-## 🧪 Em construção contínua
-
-Cada repositório aqui segue a mesma filosofia operacional:
-
-- **Questionar:** Aplicar minha curiosidade na busca e na resolução de problemas.  
-- **Aprender:** Descobrir e testar alguns meios de resolver os problemas que surgirem.  
-- **Aplicar:** Revisar descobertas, registra-las e aplica-las em situações necessárias.
-
-Meu GitHub é um ambiente vivo — você verá:
-
-- Commits evolutivos
-- Projetos iniciantes sendo transformados em soluções reais
-- Documentações claras, diretas e orientadas à entrega
-
----
-
-## 📬 Conecte-se comigo
-
-🔗 **LinkedIn:** [https://www.linkedin.com/in/júlio-cesar-santos-daltro-de-oliveira-98054a314  ](https://www.linkedin.com/in/julio-oliver-tech/?locale=pt-BR)
-🎒 **GitHub:** https://github.com/JulioOliveira397  
-📸 **Instagram:** @Jutty._7  
-- Aberto a vagas júnior ou freelas em suporte de TI / segurança da informação, em Salvador ou remoto
-
+Aberto a vagas júnior ou freelas em suporte de TI / segurança da informação — Salvador ou remoto.
 ---
 
 <div align="center">
