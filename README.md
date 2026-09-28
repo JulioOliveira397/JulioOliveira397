@@ -74,6 +74,7 @@ Meu GitHub é um ambiente vivo — você verá:
 🔗 **LinkedIn:** [https://www.linkedin.com/in/júlio-cesar-santos-daltro-de-oliveira-98054a314  ](https://www.linkedin.com/in/julio-oliver-tech/?locale=pt-BR)
 🎒 **GitHub:** https://github.com/JulioOliveira397  
 📸 **Instagram:** @Jutty._7  
+- Aberto a vagas júnior ou freelas em suporte de TI / segurança da informação, em Salvador ou remoto
 
 ---
 
