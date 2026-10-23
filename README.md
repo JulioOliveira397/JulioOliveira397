@@ -34,7 +34,7 @@ Aqui vou publicar labs, anotações e scripts conforme avanço na trilha: comand
 
 ## 📬 Contato
 - LinkedIn: [Júlio Oliveira](https://www.linkedin.com/in/júlio-cesar-santos-daltro-de-oliveira-98054a314)
-- Credly: *(https://www.credly.com/badges/1f042f13-294a-45e1-a7ad-4dd48f1eac74)*
+- Credly: [Meu badge](https://www.credly.com/badges/1f042f13-294a-45e1-a7ad-4dd48f1eac74)
 
 **Aberto a oportunidades júnior** em Suporte Técnico / Service Desk, Operações de TI, NOC ou SOC, em Portugal ou remoto.
 
