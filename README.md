@@ -1,4 +1,4 @@
-# 👋 Julio Oliver
+# 👋 Julio Oliveira (Oliver)
 
 🟣 Estudante de Cibersegurança | Linux | Redes | Python | Cisco NetAcad
 📍 Portugal 🇵🇹 · origem Salvador, BA 🇧🇷
@@ -42,7 +42,7 @@ Sigo um roadmap próprio de 12 meses, com 40% de teoria e 60% de prática:
 **Em construção:** labs de Linux do home lab, labs de redes do CCST, scripts de segurança em Python e write-ups do TryHackMe.
 
 ## 📬 Contato
-- LinkedIn: [Julio Oliver](https://www.linkedin.com/in/julio-oliver-tech)
+- LinkedIn: [Julio Oliveira](https://www.linkedin.com/in/julio-oliver-tech)
 - Credly: [Meus badges](https://www.credly.com/badges/1f042f13-294a-45e1-a7ad-4dd48f1eac74)
 
 **Aberto a oportunidades júnior** em Suporte Técnico / Service Desk, Operações de TI, NOC ou SOC, em Portugal ou remoto.
